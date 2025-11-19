@@ -1,1 +1,1 @@
-# codealpha_task2_UnemploymentAnalysisUsingPython
+A data analysis project that explores unemployment trends using Python. Includes data cleaning, visualization, and interpretation of unemployment rates across different regions to uncover meaningful insights.
